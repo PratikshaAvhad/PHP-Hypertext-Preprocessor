@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <CricketTeam>
+    <category type="team country=India">
+      <player>Virat kohli</player>
+      <runs>100</runs>
+      <wicket>2</wicket>
+    </category>
+    <category type="team country=Australia">
+      <player>warner</player>
+      <runs>83</runs>
+      <wicket>0</wicket>
+    </category>
+ </CricketTeam> 

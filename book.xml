@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <bookDetails>
+     <language type="english">
+       <bookcode>101</bookcode>
+       <bookname>The secret of success</bookname>
+       <author>Marthin Amis</author>
+       <year>1965</year>
+       <price>300</price>
+     </language>
+      <language type="Marathi">
+       <bookcode>9780</bookcode>
+       <bookname>Jeevan Samjun Ghetana</bookname>
+       <author>Gaur Gopal Das</author>
+       <year>2019</year>
+       <price>250</price>
+     </language>
+      <language type="engineering">
+       <bookcode>101</bookcode>
+       <bookname>C language</bookname>
+       <author>Nirali</author>
+       <year>2020</year>
+       <price>100</price>
+     </language>
+      <language type="web">
+       <bookcode>102</bookcode>
+       <bookname>PHP</bookname>
+       <author>Nirali</author>
+       <year>1999</year>
+       <price>200</price>
+     </language>
+  </bookDetails>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+ <category type="classical">
+    <movietitle>thappad</movietitle>
+    <actorname>tapsi pannu</actorname>
+    <releaseyear>2020</releaseyear>
+ </category>
+ <category type="horror">
+    <movietitle>bhulbhulaiya</movietitle>
+    <actorname>akshay kumar</actorname>
+    <releaseyear>2007</releaseyear>
+ </category>
+ <category type="action">
+    <movietitle>stree</movietitle>
+    <actorname>shraddha kapur</actorname>
+    <releaseyear>2018</releaseyear>
+ </category>
+</movie>

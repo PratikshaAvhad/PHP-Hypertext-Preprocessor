@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<breakfast_menu>
+  <category type="food">
+    <name>Freanch Fries</name>
+    <price>Rs45</price>
+    <description>Young youths are very much intrested to eat it</description>
+    <calories>650</calories>
+  </category>
+   <category type="Juice">
+    <name>Watermelon</name>
+    <price>Rs70</price>
+    <description>every person is very much intrested to drink it</description>
+    <calories>100</calories>
+  </category>
+</breakfast_menu>
+   

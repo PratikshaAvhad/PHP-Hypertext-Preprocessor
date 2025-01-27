@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CemployeeTeam>
+  <category type="teamname=red">
+    <ename>om</ename>
+    <experience>2years</experience>
+    <mobno>8799882114</mobno>
+    <eaddress>shrirampur</eaddress>
+  </category>
+   <category type="teamname=pink">
+    <ename>sai</ename>
+    <experience>5years</experience>
+    <mobno>9579079505</mobno>
+    <eaddress>pune</eaddress>
+  </category>
+    <category type="teamname=yellow">
+    <ename>ram</ename>
+    <experience>10years</experience>
+    <mobno>8766641454</mobno>
+    <eaddress>mumbai</eaddress>
+  </category>
+</CemployeeTeam>  

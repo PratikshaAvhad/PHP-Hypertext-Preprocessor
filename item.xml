@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <item>
+    <info>
+      <ino>1</ino>
+       <iname>Pen</iname>
+       <qty>50</qty>
+       <rate>10</rate>
+     </info>
+     <info>
+      <ino>2</ino>
+      <iname>Pencil</iname>
+      <qty>40</qty>
+       <rate>8</rate>
+     </info>
+      <info>
+      <ino>3</ino>
+       <iname>notebook</iname>
+       <qty>10</qty>
+       <rate>50</rate>
+     </info>
+  </item>
+     

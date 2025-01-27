@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <student>
+    <class type="fy">
+      <rno>101</rno>
+      <name>Om</name>
+       <per>66.55</per>
+    </class>
+     <class type="sy">
+      <rno>102</rno>
+      <name>sai</name>
+       <per>80.55</per>
+    </class>
+     <class type="ty">
+      <rno>103</rno>
+      <name>Ram</name>
+       <per>88</per>
+    </class>
+  </student>

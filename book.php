@@ -1,5 +1,5 @@
 <?php
-     $xml=simplexml_load_file("book.xml");
+     $xml=simplexml_load_file("sy_ass3_p3.xml");
     if($xml==false)
     {
       die("file not found");
